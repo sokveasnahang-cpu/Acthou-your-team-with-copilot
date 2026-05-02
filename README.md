@@ -30,7 +30,7 @@ Simply copy the exercise to your account, then give your favorite Octocat (Mona)
 [![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=expand-your-team-with-copilot&owner=%40me&name=skills-expand-your-team-with-copilot&description=Exercise:+Expand+your+team+with+GitHub+Copilot+cloud+agent&visibility=public)
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>Having trouble? <summary>
 
 When copying the exercise, we recommend the following settings:
 
